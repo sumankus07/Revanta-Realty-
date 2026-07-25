@@ -280,8 +280,8 @@ Connect with our experts and receive the latest investment opportunities.</td>
 
 <option>₹3Cr+</option>
 
-  </select>
 
+  </select>
 
 
         
