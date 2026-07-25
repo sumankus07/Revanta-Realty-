@@ -231,7 +231,7 @@ Book a FREE Property Consultation Today.</td>
 
 Explore exclusive inventory before public launch.
 
-Book Your Free Site Visit./td>
+Book Your Free Site Visit.</td>
 
 </tr>
 
