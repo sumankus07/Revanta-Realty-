@@ -261,8 +261,6 @@ Connect with our experts and receive the latest investment opportunities.</td>
 
 <h2>Lead Form Preview</h2>
 
->form class="form-preview">
-
 <label>Full Name</label>
 <input type="text" name="fullname" placeholder="Enter Full Name" required>
 
@@ -272,22 +270,23 @@ Connect with our experts and receive the latest investment opportunities.</td>
 <label>Email Address</label>
 <input type="email" name="email" placeholder="Enter Email Address" required>
 
-<label>Budget</label>
+
 
 <option value="">Select Budget</option>
 
-<option>₹80L – ₹1.5Cr</option>
+<option>₹80L – ₹1.5Cr,</option>
 
-<option>₹1.5Cr – ₹3Cr</option>
+<option>₹1.5Cr – ₹3Cr,</option>
 
 <option>₹3Cr+</option>
 
   </select>
 
-   <label>Property Type</label>
         
 <option value="">Select Property Type</option>
+
 <option>Apartment</option>
+
             <option>Builder Floor</option>
             <option>Plot</option>
             <option>Commercial</option>
