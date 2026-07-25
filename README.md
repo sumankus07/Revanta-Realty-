@@ -259,50 +259,50 @@ Connect with our experts and receive the latest investment opportunities.</td>
 
 <form action="#" method="POST" class="lead-form">
 
-    <!-- Budget -->
-    <label for="budget">Budget</label>
-    <select id="budget" name="budget" required>
-        <option value="">Select Budget</option>cc
-        <option value="80L-1.5Cr">₹80L – ₹1.5Cr</option>
-        <option value="1.5Cr-3Cr">₹1.5Cr – ₹3Cr</option>
-        <option value="3Cr+">₹3Cr+</option>
+<!-- Budget -->
+<label for="budget">Budget</label>
+<select id="budget" name="budget" required>
+<option value="">Select Budget</option>cc
+<option value="80L-1.5Cr">₹80L – ₹1.5Cr</option>
+<option value="1.5Cr-3Cr">₹1.5Cr – ₹3Cr</option>
+<option value="3Cr+">₹3Cr+</option>
     </select>
 
-    <!-- Property Type -->
-    <label for="property">Property Type</label>
-    <select id="property" name="property" required>
-        <option value="">Select Property Type</option>
-        <option value="Apartment">Apartment</option>
-        <option value="Builder Floor">Builder Floor</option>
-        <option value="Plot">Plot</option>
-        <option value="Commercial">Commercial</option>
-    </select>
+<!-- Property Type -->
+<label for="property">Property Type</label>
+<select id="property" name="property" required>
+<option value="">Select Property Type</option>
+<option value="Apartment">Apartment</option>
+<option value="Builder Floor">Builder Floor</option>
+<option value="Plot">Plot</option>
+<option value="Commercial">Commercial</option>
+</select>
 
-    <!-- Planning to Buy -->
-    <label for="buying">Planning to Buy</label>
-    <select id="buying" name="buying" required>
-        <option value="">Select Timeline</option>
-        <option value="Immediately">Immediately</option>
-        <option value="1-3 Months">1–3 Months</option>
-        <option value="3-6 Months">3–6 Months</option>
-    </select>
+<!-- Planning to Buy -->
+<label for="buying">Planning to Buy</label>
+<select id="buying" name="buying" required>
+<option value="">Select Timeline</option>
+<option value="Immediately">Immediately</option>
+<option value="1-3 Months">1–3 Months</option>
+<option value="3-6 Months">3–6 Months</option>
+</select>
 
-    <!-- Site Visit -->
-    <label>Site Visit Required?</label>
+<!-- Site Visit -->
+<label>Site Visit Required?</label>
 
-    <div class="radio-group">
-        <label>
-            <input type="radio" name="site_visit" value="Yes" required>
-            Yes
+<div class="radio-group">
+<label>
+<input type="radio" name="site_visit" value="Yes" required>
+    Yes
         </label>
 
-        <label>
+<label>
             <input type="radio" name="site_visit" value="No">
             No
         </label>
     </div>
 
-    <button type="submit">Submit Lead</button>
+<button type="submit">Submit Lead</button>
 
 </form>
 
