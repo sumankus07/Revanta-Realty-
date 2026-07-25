@@ -264,26 +264,26 @@ Connect with our experts and receive the latest investment opportunities.</td>
 <form class="form-preview" action="#" method="POST">
 
 <!-- Full Name -->
-<label for="fullname">Full Name</label>
+<label for="fullname">Full Name-</label>
         <input type="text" id="fullname" name="fullname" placeholder="Enter your full name" required>
 
 <!-- Mobile Number -->
-<label for="mobile">Mobile Number</label>
+<label for="mobile">Mobile Number-</label>
         <input type="tel" id="mobile" name="mobile" placeholder="Enter your mobile number" required>
 
 <!-- Email -->
-<label for="email">Email Address</label>
+<label for="email">Email Address-</label>
         <input type="email" id="email" name="email" placeholder="Enter your email address" required>
 
 <!-- Budget -->
-<label for="budget">Select Budget</label>
-        <select id="budget" name="budget" required><option value="80L-1.5Cr">₹80L – ₹1.5Cr</option>
-<option value="1.5Cr-3Cr">₹1.5Cr – ₹3Cr</option>
+<label for="budget">Select Budget-</label>
+        <select id="budget" name="budget" required><option value="80L-1.5Cr">₹80L – ₹1.5Cr,</option>
+<option value="1.5Cr-3Cr">₹1.5Cr – ₹3Cr,</option>
             <option value="3Cr+">₹3Cr+</option>
         </select>
 
 <!-- Property Type -->
-<label for="property">Select Property Type</label>
+<label for="property">Select Property Type-</label>
         <select id="property" name="property" required>
 <option value="Apartment">Apartment,</option>
             <option value="Builder Floor">Builder Floor,</option>
@@ -296,11 +296,13 @@ Connect with our experts and receive the latest investment opportunities.</td>
         <input type="text" id="location" name="location" placeholder="e.g. Dwarka Expressway, Gurgaon" required>
 
 <!-- Planning -->
-<label for="planning">Planning to Buy</label>
+<label for="planning">Planning to Buy-</label>
         <select id="planning" name="planning" required>
-<option value="Immediately">Immediately</option>
-            <option value="1-3 Months">1–3 Months</option>
-            <option value="3-6 Months">3–6 Months</option>
+<option value="Immediately">Immediately,</option>
+            <option value="1-3 Months">1–3 Months,</option>
+          <br>
+ <option value="3-6 Months">3–6 Months</option>
+</br>
         </select>
 
 <!-- Site Visit -->
