@@ -257,88 +257,55 @@ Connect with our experts and receive the latest investment opportunities.</td>
 
 </div>
 
-<div class="card">
+<form action="#" method="POST" class="lead-form">
 
-<h2>Lead Form Preview</h2>
+    <!-- Budget -->
+    <label for="budget">Budget</label>
+    <select id="budget" name="budget" required>
+        <option value="">Select Budget</option>cc
+        <option value="80L-1.5Cr">₹80L – ₹1.5Cr</option>
+        <option value="1.5Cr-3Cr">₹1.5Cr – ₹3Cr</option>
+        <option value="3Cr+">₹3Cr+</option>
+    </select>
 
-<div class="form-preview">
+    <!-- Property Type -->
+    <label for="property">Property Type</label>
+    <select id="property" name="property" required>
+        <option value="">Select Property Type</option>
+        <option value="Apartment">Apartment</option>
+        <option value="Builder Floor">Builder Floor</option>
+        <option value="Plot">Plot</option>
+        <option value="Commercial">Commercial</option>
+    </select>
 
-<input type="text" placeholder="Full Name">
+    <!-- Planning to Buy -->
+    <label for="buying">Planning to Buy</label>
+    <select id="buying" name="buying" required>
+        <option value="">Select Timeline</option>
+        <option value="Immediately">Immediately</option>
+        <option value="1-3 Months">1–3 Months</option>
+        <option value="3-6 Months">3–6 Months</option>
+    </select>
 
-<input type="tel" placeholder="Mobile Number">
+    <!-- Site Visit -->
+    <label>Site Visit Required?</label>
 
-<input type="email" placeholder="Email Address">
+    <div class="radio-group">
+        <label>
+            <input type="radio" name="site_visit" value="Yes" required>
+            Yes
+        </label>
 
-<select>
-    
-<option>Budget</option>
+        <label>
+            <input type="radio" name="site_visit" value="No">
+            No
+        </label>
+    </div>
 
-<option>₹80L – ₹1.5Cr</option>
+    <button type="submit">Submit Lead</button>
 
+</form>
 
-<option>₹1.5Cr – ₹3Cr</option>
-
-
-<option>₹3Cr+</option>
-
-
-</select>
-
-<select>
-    
-<option>Property Type</option>
-
-
-<option>Apartment</option>
-
-
-<option>Builder Floor</option>
-
-
-<option>Plot</option>
-
-
-<option>Commercial</option>
-
-
-</select>
-
-<input type="text" placeholder="Preferred Location">
-
-<select>
-    
-<option>Planning to Buy</option>
-
-
-<option>Immediately</option>
-
-
-<option>1–3 Months</option>
-
-
-<option>3–6 Months</option>
-
-
-</select>
-
-<select>
-    
-<option>Site Visit Required?</option>
-
-
-<option>Yes</option>
-
-
-<option>No</option>
-
-
-</select>
-
-<button>Submit Lead</button>
-
-</div>
-
-</div>
 
 <div class="card">
 
