@@ -273,43 +273,46 @@ Connect with our experts and receive the latest investment opportunities.</td>
 <input type="email" name="email" placeholder="Enter Email Address" required>
 
 <label>Budget</label>
-            <select name="budget" required>
-            <option value="">Select Budget</option>
-            <option>₹80L – ₹1.5Cr</option>
-            <option>₹1.5Cr – ₹3Cr</option>
-            <option>₹3Cr+</option>
-        </select>
 
-        <label>Property Type</label>
-        <select name="property_type" required>
-            <option value="">Select Property Type</option>
-            <option>Apartment</option>
+<option value="">Select Budget</option>
+
+<option>₹80L – ₹1.5Cr</option>
+
+<option>₹1.5Cr – ₹3Cr</option>
+
+<option>₹3Cr+</option>
+
+  </select>
+
+   <label>Property Type</label>
+        
+<option value="">Select Property Type</option>
+<option>Apartment</option>
             <option>Builder Floor</option>
             <option>Plot</option>
             <option>Commercial</option>
         </select>
 
-        <label>Preferred Location</label>
+   <label>Preferred Location</label>
         <input type="text" name="location" placeholder="Preferred Location" required>
 
-        <label>Planning to Buy</label>
+   <label>Planning to Buy</label>
         <select name="buying_time" required>
-            <option value="">Select Timeline</option>
-            <option>Immediately</option>
+<option>Immediately</option>
             <option>1–3 Months</option>
             <option>3–6 Months</option>
         </select>
 
-        <label>Site Visit Required?</label>
+   <label>Site Visit Required?</label>
         <select name="site_visit" required>
-            <option value="">Select Option</option>
+<option value="">Select Option</option>
             <option>Yes</option>
             <option>No</option>
         </select>
 
-        <button type="submit">Submit Lead</button>
+   <button type="submit">Submit Lead</button>
 
-    </form>
+   </form>
 
 </div>
 
