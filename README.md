@@ -277,32 +277,28 @@ Connect with our experts and receive the latest investment opportunities.</td>
 
 <!-- Budget -->
 <label for="budget">Select Budget</label>
-        <select id="budget" name="budget" required>
-<option value="">Select Budget</option>
-            <option value="80L-1.5Cr">₹80L – ₹1.5Cr</option>
-            <option value="1.5Cr-3Cr">₹1.5Cr – ₹3Cr</option>
+        <select id="budget" name="budget" required><option value="80L-1.5Cr">₹80L – ₹1.5Cr</option>
+<option value="1.5Cr-3Cr">₹1.5Cr – ₹3Cr</option>
             <option value="3Cr+">₹3Cr+</option>
         </select>
 
 <!-- Property Type -->
 <label for="property">Select Property Type</label>
         <select id="property" name="property" required>
-<option value="">Select Property Type</option>
-            <option value="Apartment">Apartment</option>
-            <option value="Builder Floor">Builder Floor</option>
-            <option value="Plot">Plot</option>
+<option value="Apartment">Apartment,</option>
+            <option value="Builder Floor">Builder Floor,</option>
+            <option value="Plot">Plot,</option>
             <option value="Commercial">Commercial</option>
         </select>
 
 <!-- Preferred Location -->
-<label for="location">Preferred Location</label>
+<label for="location">Preferred Location-</label>
         <input type="text" id="location" name="location" placeholder="e.g. Dwarka Expressway, Gurgaon" required>
 
 <!-- Planning -->
 <label for="planning">Planning to Buy</label>
         <select id="planning" name="planning" required>
-<option value="">Select Timeline</option>
-            <option value="Immediately">Immediately</option>
+<option value="Immediately">Immediately</option>
             <option value="1-3 Months">1–3 Months</option>
             <option value="3-6 Months">3–6 Months</option>
         </select>
@@ -321,6 +317,7 @@ Connect with our experts and receive the latest investment opportunities.</td>
                 No
             </label>
         </div>
+
 
 <!-- Submit Button -->
 <button type="submit">Submit Lead</button>
