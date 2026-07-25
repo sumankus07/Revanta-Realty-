@@ -259,77 +259,75 @@ Connect with our experts and receive the latest investment opportunities.</td>
 
 <div class="card">
 
-    <h2>Lead Form Preview</h2>
+<h2>Lead Form Preview</h2>
 
-    <form class="form-preview" action="#" method="POST">
+<form class="form-preview" action="#" method="POST">
 
-        <!-- Full Name -->
-        <label for="fullname">Full Name</label>
+<!-- Full Name -->
+<label for="fullname">Full Name</label>
         <input type="text" id="fullname" name="fullname" placeholder="Enter your full name" required>
 
-        <!-- Mobile Number -->
-        <label for="mobile">Mobile Number</label>
+<!-- Mobile Number -->
+<label for="mobile">Mobile Number</label>
         <input type="tel" id="mobile" name="mobile" placeholder="Enter your mobile number" required>
 
-        <!-- Email -->
-        <label for="email">Email Address</label>
+<!-- Email -->
+<label for="email">Email Address</label>
         <input type="email" id="email" name="email" placeholder="Enter your email address" required>
 
-        <!-- Budget -->
-        <label for="budget">Select Budget</label>
+<!-- Budget -->
+<label for="budget">Select Budget</label>
         <select id="budget" name="budget" required>
-            <option value="">Select Budget</option>
+<option value="">Select Budget</option>
             <option value="80L-1.5Cr">₹80L – ₹1.5Cr</option>
             <option value="1.5Cr-3Cr">₹1.5Cr – ₹3Cr</option>
             <option value="3Cr+">₹3Cr+</option>
         </select>
 
-        <!-- Property Type -->
-        <label for="property">Select Property Type</label>
+<!-- Property Type -->
+<label for="property">Select Property Type</label>
         <select id="property" name="property" required>
-            <option value="">Select Property Type</option>
+<option value="">Select Property Type</option>
             <option value="Apartment">Apartment</option>
             <option value="Builder Floor">Builder Floor</option>
             <option value="Plot">Plot</option>
             <option value="Commercial">Commercial</option>
         </select>
 
-        <!-- Preferred Location -->
-        <label for="location">Preferred Location</label>
+<!-- Preferred Location -->
+<label for="location">Preferred Location</label>
         <input type="text" id="location" name="location" placeholder="e.g. Dwarka Expressway, Gurgaon" required>
 
-        <!-- Planning -->
-        <label for="planning">Planning to Buy</label>
+<!-- Planning -->
+<label for="planning">Planning to Buy</label>
         <select id="planning" name="planning" required>
-            <option value="">Select Timeline</option>
+<option value="">Select Timeline</option>
             <option value="Immediately">Immediately</option>
             <option value="1-3 Months">1–3 Months</option>
             <option value="3-6 Months">3–6 Months</option>
         </select>
 
-        <!-- Site Visit -->
-        <label>Site Visit Required?</label>
+<!-- Site Visit -->
+<label>Site Visit Required?</label>
 
-        <div class="radio-group">
+<div class="radio-group">
             <label>
                 <input type="radio" name="site_visit" value="Yes" required>
                 Yes
             </label>
 
-            <label>
+<label>
                 <input type="radio" name="site_visit" value="No">
                 No
             </label>
         </div>
 
-        <!-- Submit Button -->
-        <button type="submit">Submit Lead</button>
+<!-- Submit Button -->
+<button type="submit">Submit Lead</button>
 
-    </form>
+</form>
 
 </div>
-
-
 
 
 <div class="card">
