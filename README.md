@@ -1,1 +1,337 @@
-# Revanta-Realty-
+
+<body>
+
+<header>
+
+<h1>Revanta Realty</h1>
+
+<p>Meta Ads Lead Generation Campaign Portfolio</p>
+
+</header>
+
+<div class="container">
+
+<div class="card">
+
+<h2>Campaign Objective</h2>
+
+<p><strong>Objective:</strong> Generate Qualified Buyer & Investor Leads using Facebook & Instagram Lead Ads.</p>
+
+<p class="badge">Optimization : Maximize Leads</p>
+
+<p class="badge">Conversion : Instant Forms</p>
+
+<p class="badge">Secondary : WhatsApp</p>
+
+<p class="badge">Tracking : Meta Pixel + Conversions API</p>
+
+</div>
+
+<div class="card">
+
+<h2>Campaign Structure</h2>
+
+<div class="grid">
+
+<div class="box">
+
+<h3>Residential Buyers</h3>
+
+<ul>
+
+<li>Budget ₹2,500–₹5,000/day</li>
+
+<li>Age 28–55</li>
+
+<li>Delhi NCR</li>
+
+<li>Luxury Real Estate</li>
+
+<li>Housing.com</li>
+
+<li>MagicBricks</li>
+
+<li>99acres</li>
+
+<li>Home Loan</li>
+
+</ul>
+
+</div>
+
+<div class="box">
+
+<h3>Investor Campaign</h3>
+
+<ul>
+
+<li>Business Owners</li>
+
+<li>Startup Founders</li>
+
+<li>CEOs</li>
+
+<li>Finance</li>
+
+<li>Mutual Funds</li>
+
+<li>Wealth Management</li>
+
+<li>HNI Audience</li>
+
+</ul>
+
+</div>
+
+<div class="box">
+
+<h3>NRI Campaign</h3>
+
+<ul>
+
+<li>UAE</li>
+
+<li>USA</li>
+
+<li>Canada</li>
+
+<li>Singapore</li>
+
+<li>United Kingdom</li>
+
+<li>Indian Real Estate</li>
+
+<li>NRI Investment</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="card">
+
+<h2>Commercial Property Targeting</h2>
+
+<ul>
+
+<li>Entrepreneurs</li>
+
+<li>Retail Owners</li>
+
+<li>Doctors</li>
+
+<li>Architects</li>
+
+<li>Chartered Accountants</li>
+
+<li>Lawyers</li>
+
+<li>Franchise Owners</li>
+
+<li>Commercial Investors</li>
+
+</ul>
+
+</div>
+
+<div class="card">
+
+<h2>Creative Strategy</h2>
+
+<table>
+
+<tr>
+
+<th>Ad</th>
+
+<th>Headline</th>
+
+<th>CTA</th>
+
+</tr>
+
+<tr>
+
+<td>Ad 1</td>
+
+<td>Own Your Dream Home in Gurgaon</td>
+
+<td>Learn More</td>
+
+</tr>
+
+<tr>
+
+<td>Ad 2</td>
+
+<td>Luxury Floors Starting at Attractive Prices</td>
+
+<td>Book Now</td>
+
+</tr>
+
+<tr>
+
+<td>Ad 3</td>
+
+<td>Invest in Gurgaon Before Prices Rise</td>
+
+<td>Get Quote</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<div class="card">
+
+<h2>Lead Form Preview</h2>
+
+<div class="form-preview">
+
+<input type="text" placeholder="Full Name">
+
+<input type="tel" placeholder="Mobile Number">
+
+<input type="email" placeholder="Email Address">
+
+<select>
+<option>Budget</option>
+<option>₹80L – ₹1.5Cr</option>
+<option>₹1.5Cr – ₹3Cr</option>
+<option>₹3Cr+</option>
+</select>
+
+<select>
+<option>Property Type</option>
+<option>Apartment</option>
+<option>Builder Floor</option>
+<option>Plot</option>
+<option>Commercial</option>
+</select>
+
+<input type="text" placeholder="Preferred Location">
+
+<select>
+<option>Planning to Buy</option>
+<option>Immediately</option>
+<option>1–3 Months</option>
+<option>3–6 Months</option>
+</select>
+
+<select>
+<option>Site Visit Required?</option>
+<option>Yes</option>
+<option>No</option>
+</select>
+
+<button>Submit Lead</button>
+
+</div>
+
+</div>
+
+<div class="card">
+
+<h2>Retargeting Strategy</h2>
+
+<ul>
+
+<li>Website Visitors</li>
+
+<li>Lead Form Opens</li>
+
+<li>Instagram Engagement</li>
+
+<li>Facebook Engagement</li>
+
+<li>Video Viewers (50%+)</li>
+
+<li>WhatsApp Clicks</li>
+
+</ul>
+
+</div>
+
+<div class="card">
+
+<h2>Budget Allocation</h2>
+
+<table>
+
+<tr>
+
+<th>Audience</th>
+
+<th>Allocation</th>
+
+</tr>
+
+<tr>
+
+<td>Cold Audience</td>
+
+<td>60%</td>
+
+</tr>
+
+<tr>
+
+<td>Lookalike Audience</td>
+
+<td>20%</td>
+
+</tr>
+
+<tr>
+
+<td>Retargeting</td>
+
+<td>20%</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<div class="card">
+
+<h2>Performance Goals</h2>
+
+<ul>
+
+<li>Target CPL: ₹300–₹800</li>
+
+<li>Luxury Projects CPL: ₹700–₹2,000</li>
+
+<li>Lead Response Time: Within 15 Minutes</li>
+
+<li>Meta Pixel Installed</li>
+
+<li>Conversions API Enabled</li>
+
+<li>CRM Integration</li>
+
+<li>UTM Tracking Enabled</li>
+
+</ul>
+
+</div>
+
+</div>
+
+<footer>
+
+<h3>Digital Marketing Portfolio</h3>
+
+<p>Revanta Realty | Facebook & Instagram Lead Generation Campaign</p>
+
+</footer>
+
+</body>
+</html>
