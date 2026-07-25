@@ -282,37 +282,55 @@ Connect with our experts and receive the latest investment opportunities.</td>
 
   </select>
 
+
+
         
 <option value="">Select Property Type</option>
 
 <option>Apartment</option>
 
+
   <option>Builder Floor</option>
-            <option>Plot</option>
-            <option>Commercial</option>
-        </select>
+  
+  
+  <option>Plot</option>
+  
+
+  <option>Commercial</option>
+  
+  
+  </select>
 
    <label>Preferred Location-</label>
-        <input type="text" name="location" placeholder="Preferred Location" required>
+
+
 
    <label>Planning to Buy</label>
-      
-<option>Immediately</option>
 
-  <option>1–3 Months</option>
+
+      
+<option>Immediately,</option>
+
+  <option>1–3 Months,</option>
 
   <option>3–6 Months</option>
   
+  
   </select>
+
 
    <label>Site Visit Required?</label>
   
       
 <option>Yes</option>
 
+
 <option>No</option>
 
+
+
 </select>
+
 
    <button type="submit">Submit Lead</button>
 
