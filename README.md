@@ -185,6 +185,50 @@
 
 </table>
 
+<table>
+
+<tr>
+
+<th>Ad</th>
+
+<th>primary text</th>
+
+<th>CTA</th>
+
+</tr>
+
+<tr>
+
+<td>Ad 1</td>
+
+<td>Own Your Dream Home in Gurgaon</td>
+
+<td>Learn More</td>
+
+</tr>
+
+<tr>
+
+<td>Ad 2</td>
+
+<td>Luxury Floors Starting at Attractive Prices</td>
+
+<td>Book Now</td>
+
+</tr>
+
+<tr>
+
+<td>Ad 3</td>
+
+<td>Invest in Gurgaon Before Prices Rise</td>
+
+<td>Get Quote</td>
+
+</tr>
+
+</table>
+
 </div>
 
 <div class="card">
@@ -200,33 +244,51 @@
 <input type="email" placeholder="Email Address">
 
 <select>
+    
 <option>Budget</option>
+
 <option>₹80L – ₹1.5Cr</option>
+
 <option>₹1.5Cr – ₹3Cr</option>
+
 <option>₹3Cr+</option>
+
 </select>
 
 <select>
 <option>Property Type</option>
+
 <option>Apartment</option>
+
 <option>Builder Floor</option>
+
 <option>Plot</option>
+
 <option>Commercial</option>
+
 </select>
 
 <input type="text" placeholder="Preferred Location">
 
 <select>
 <option>Planning to Buy</option>
+
 <option>Immediately</option>
+
 <option>1–3 Months</option>
+
 <option>3–6 Months</option>
+
 </select>
 
 <select>
+    
 <option>Site Visit Required?</option>
+
 <option>Yes</option>
+
 <option>No</option>
+
 </select>
 
 <button>Submit Lead</button>
