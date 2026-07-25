@@ -193,17 +193,23 @@
 
 <th>primary text</th>
 
-<th>CTA</th>
-
 </tr>
-
-<tr>
 
 <td>Ad 1</td>
 
-<td>Own Your Dream Home in Gurgaon</td>
+<td>Looking for premium homes in Gurgaon?
 
-<td>Learn More</td>
+✔ Verified Projects
+
+✔ Lowest Price Guaranteed
+
+✔ Expert Guidance
+
+✔ Home Loan Assistance
+
+✔ Legal Support
+
+Book a FREE Property Consultation Today.</td>
 
 </tr>
 
@@ -211,9 +217,19 @@
 
 <td>Ad 2</td>
 
-<td>Luxury Floors Starting at Attractive Prices</td>
+<td>Looking to buy in:
 
-<td>Book Now</td>
+• Dwarka Expressway
+
+• New Gurgaon
+
+• Sohna Road
+
+• Golf Course Extension
+
+Explore exclusive inventory before public launch.
+
+Book Your Free Site Visit./td>
 
 </tr>
 
@@ -221,9 +237,14 @@
 
 <td>Ad 3</td>
 
-<td>Invest in Gurgaon Before Prices Rise</td>
+<td>Upcoming infrastructure.
 
-<td>Get Quote</td>
+High appreciation corridors.
+
+Exclusive developer inventory.
+
+Connect with our experts and receive the latest investment opportunities.</td>
+
 
 </tr>
 
