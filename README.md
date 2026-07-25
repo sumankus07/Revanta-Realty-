@@ -199,6 +199,7 @@
 
 <td>Looking for premium homes in Gurgaon?
 
+
 ✔ Verified Projects
 
 ✔ Lowest Price Guaranteed
@@ -218,6 +219,7 @@ Book a FREE Property Consultation Today.</td>
 <td>Ad 2</td>
 
 <td>Looking to buy in:
+
 
 • Dwarka Expressway
 
@@ -239,9 +241,12 @@ Book Your Free Site Visit./td>
 
 <td>Upcoming infrastructure.
 
+
 High appreciation corridors.
 
+
 Exclusive developer inventory.
+
 
 Connect with our experts and receive the latest investment opportunities.</td>
 
