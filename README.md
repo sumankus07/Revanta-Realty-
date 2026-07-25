@@ -257,63 +257,63 @@ Connect with our experts and receive the latest investment opportunities.</td>
 
 </div>
 
-<form action="#" method="POST" class="lead-form">
+<div class="card">
 
-<!-- Budget -->
-<label for="budget">Budget</label>
-<option value="">Select Budget</option>cc
-<option value="80L-1.5Cr">₹80L – ₹1.5Cr</option>
+<h2>Lead Form Preview</h2>
 
-<option value="1.5Cr-3Cr">₹1.5Cr – ₹3Cr</option>
+>form class="form-preview">
 
-<option value="3Cr+">₹3Cr+</option>
+<label>Full Name</label>
+<input type="text" name="fullname" placeholder="Enter Full Name" required>
 
-</select>
+<label>Mobile Number</label>
+<input type="tel" name="mobile" placeholder="Enter Mobile Number" required>
 
-<!-- Property Type -->
-<select id="property" name="property" required>
-<option value="">Select Property Type</option>
-<option value="Apartment">Apartment</option>
+<label>Email Address</label>
+<input type="email" name="email" placeholder="Enter Email Address" required>
 
-<option value="Builder Floor">Builder Floor</option>
+<label>Budget</label>
+            <select name="budget" required>
+            <option value="">Select Budget</option>
+            <option>₹80L – ₹1.5Cr</option>
+            <option>₹1.5Cr – ₹3Cr</option>
+            <option>₹3Cr+</option>
+        </select>
 
-<option value="Plot">Plot</option>
+        <label>Property Type</label>
+        <select name="property_type" required>
+            <option value="">Select Property Type</option>
+            <option>Apartment</option>
+            <option>Builder Floor</option>
+            <option>Plot</option>
+            <option>Commercial</option>
+        </select>
 
-<option value="Commercial">Commercial</option>
+        <label>Preferred Location</label>
+        <input type="text" name="location" placeholder="Preferred Location" required>
 
-</select>
+        <label>Planning to Buy</label>
+        <select name="buying_time" required>
+            <option value="">Select Timeline</option>
+            <option>Immediately</option>
+            <option>1–3 Months</option>
+            <option>3–6 Months</option>
+        </select>
 
-<!-- Planning to Buy -->
-<label for="buying">Planning to Buy</label>
-<select id="buying" name="buying" required>
+        <label>Site Visit Required?</label>
+        <select name="site_visit" required>
+            <option value="">Select Option</option>
+            <option>Yes</option>
+            <option>No</option>
+        </select>
 
-<option value="Immediately">Immediately</option>
+        <button type="submit">Submit Lead</button>
 
-<option value="1-3 Months">1–3 Months</option>
+    </form>
 
-<option value="3-6 Months">3–6 Months</option>
-
-</select>
-
-<!-- Site Visit -->
-<label>Site Visit Required?</label>
-
-<div class="radio-group">
-<label>
-<input type="radio" name="site_visit" value="Yes" required>
-    Yes
-        </label>
+</div>
 
 
-<label>
-            <input type="radio" name="site_visit" value="No">
-            No
-        </label>
-    </div>
-
-<button type="submit">Submit Lead</button>
-
-</form>
 
 
 <div class="card">
