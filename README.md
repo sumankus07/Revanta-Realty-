@@ -309,16 +309,18 @@ Connect with our experts and receive the latest investment opportunities.</td>
 <label>Site Visit Required?</label>
 
 <div class="radio-group">
-           <br>
-                 <label>
+         
+<label>
                 <input type="radio" name="site_visit" value="Yes" required>
                 Yes
             </label>
-</br>
+
+<br>
 <label>
                 <input type="radio" name="site_visit" value="No">
                 No
             </label>
+</br>
         </div>
 
 
